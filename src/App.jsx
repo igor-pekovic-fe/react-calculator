@@ -151,7 +151,7 @@ function App() {
         className="span-two"
         onClick={() => dispatch({ type: ACTIONS.CLEAR })}
       >
-        ACCC
+        AC
       </button>
       <button onClick={() => dispatch({ type: ACTIONS.DELETE_DIGIT })}>
         DEL
